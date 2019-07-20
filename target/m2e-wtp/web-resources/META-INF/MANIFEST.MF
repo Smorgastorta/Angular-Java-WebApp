@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: roby_
+Build-Jdk: 11.0.2
+Implementation-Title: ProvaHibernate Maven Webapp
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: it.formarete.tss
+Implementation-URL: localhost:8080/api
+Created-By: Maven Integration for Eclipse
+
